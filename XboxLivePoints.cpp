@@ -7,8 +7,8 @@ int main(){
 	cin >> N;	
 	for(int i = 1;i <= N; i++){ 
 	 	if(Suma < 0) {
-	       	Suma = 0;            
-		guarda++;
+	       		Suma = 0;            
+			guarda++;
 		}
 	cin >> Aux;
 	if(Aux < 0) guarda++;
